@@ -13,7 +13,7 @@ Demonstrating usage of React in making portfolio website.
 
 ![App](https://user-images.githubusercontent.com/101073782/227686138-f5b0fcfb-cb71-465f-ae9e-5f515c41972e.png)
 
-Github: 
+Github: https://github.com/Ravneet0112/reactPortfolio
 
 ## Questions
 

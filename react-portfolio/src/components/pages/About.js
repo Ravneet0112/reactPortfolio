@@ -6,8 +6,8 @@ const styles={
     width: '60%',
     alignitems: 'center',
     margin: 'auto',
-    background: 'lightgrey',
-    color: 'black',
+    background: 'darkgrey',
+    color: 'darkblue',
 },
 };
 function About() {

@@ -28,8 +28,9 @@ function Footer() {
   return (
     <footer style={styles.footerStyle} className="footer">
       <h6 style={styles.footerStyle} className="text-center"> Ravneet Sammewali <span style={styles.spanStyles}>@2023</span>
-      <a href="https://github.com/Ravneet0112"> <i ></i></a>
-      <a href="https://www.linkedin.com/in/ravneet-sammewali/"> <i></i></a>
+      <a href="https://github.com/Ravneet0112"> 
+      <h6 style={styles.footerStyle}>GitHub</h6></a>
+      <a href="https://www.linkedin.com/in/ravneet-sammewali/"> <h6 style={styles.footerStyle}>LinkedIn</h6></a>
       
         </h6>
         </footer>
